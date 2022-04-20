@@ -7,4 +7,4 @@ use pyppeteer in real project
 node原版   https://github.com/puppeteer/puppeteer
 java版本   https://github.com/fanyong920/jvppeteer
 
-简单的打开一个网页：Openenv.java文件（打开，并等到自己想要的元素）
+简单的打开一个网页：OpenEnv.java文件（打开，并等到自己想要的元素）
